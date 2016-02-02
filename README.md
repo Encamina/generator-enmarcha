@@ -1,6 +1,6 @@
 # Enmarcha Generator - YO ENMARCHA!
 Generador [Yeoman](http://yeoman.io) para crear proyectos .NET con el framework [Enmarcha](https://github.com/Encamina/Enmarcha-SharePoint) instalado. Este generador ayuda al desarrollador a generar proyectos ágilmente con Enmarcha instalado y listo para funcionar. La estructura
-del proyecto generado es la de un proyecto SharePoint vacío, pero con el NuGet de Enmarcha instalado y listo para ser utiliado.
+del proyecto generado es la de un proyecto SharePoint vacío, pero con el NuGet de Enmarcha instalado y listo para ser utilizado.
 
 Para aprender a utilizar Enmarcha, existe un [proyecto con samples](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples) que contiene varios ejemplos de uso del framework.
 
