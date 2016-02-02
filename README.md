@@ -5,7 +5,7 @@ del proyecto generado es la de un proyecto SharePoint vacío, pero con el NuGet 
 Para aprender a utilizar Enmarcha, existe un [proyecto con samples](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples) que contiene varios ejemplos de uso del framework.
 
 ## YO Enmarcha Demo (screenshot)
-![](docs/assets/generatorEnmarcha.png)
+![](https://raw.githubusercontent.com/jcmartinez23/generator-enmarcha/master/docs/assets/generatorEnmarcha.PNG)
 
 ***
 
