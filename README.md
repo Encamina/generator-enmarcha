@@ -30,5 +30,5 @@ Ejecutando `mocha` desde la carpeta del generador, lanzara los test utilizando M
 
 ## Licencia
 
-[Licencia MIT](https://github.com/jcmartinez23/generator-enmarcha/blob/master/LICENSE)
+[Licencia MIT](https://github.com/Encamina/generator-enmarcha/blob/master/LICENSE)
 
