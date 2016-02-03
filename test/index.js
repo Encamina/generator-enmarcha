@@ -21,15 +21,6 @@ describe('Enmarcha Generator Tests', function() {
 		
 		assert.file(files);
 	});
-
-	it("adds the Enmarcha assemblies", function() {
-		var files = [
-			path.join(__dirname,'tmp/packages/Enmarcha.SharePoint.1.0.0.2/lib/net45/Enmarcha.SharePoint.dll'),
-			path.join(__dirname,'tmp/packages/Enmarcha.SharePoint.1.0.0.2/lib/net45/Enmarcha.SharePoint.Abstract.dll'),
-		]
-		
-		assert.file(files);
-	});
 	
 	it("adds the Enmarcha package configuration", function() {
 		assert.fileContent(path.join(__dirname,'tmp/Test/packages.config'), /"Enmarcha\.SharePoint"/)
